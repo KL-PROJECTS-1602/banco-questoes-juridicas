@@ -25,6 +25,9 @@ Gabaritos oficiais em 5.700 questões; 63 anuladas (contadas como acerto, confor
 ## Por que as questões podem ser reproduzidas
 Provas de concurso público são atos oficiais, excluídos da proteção autoral pelo art. 8º, IV, da Lei 9.610/1998. O TJ-SP já decidiu que questões de prova não têm proteção de direito autoral nem constituem base de dados protegida. Os comentários são de elaboração própria.
 
+## Indexação
+O site não é indexado por mecanismos de busca: a página declara `robots: noindex, nofollow` e o repositório traz um `robots.txt` com `Disallow`. O link continua público para quem o tiver.
+
 ## Estrutura
 ```
 index.html      página
